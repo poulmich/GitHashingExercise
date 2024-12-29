@@ -1,4 +1,4 @@
-  GNU nano 6.2                                                             script2.sh                                                                       #!/bin/bash
+#!/bin/bash
 
 #store the input
 input=$1
